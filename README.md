@@ -28,6 +28,3 @@ I'm actively seeking opportunities to apply and expand my skills. If you're look
 - Gmail: akshadarane10@gmail.com
 ---
 Remember, while data is my superpower, humor is my secret weapon. Thanks for stopping by!
-
-Best,                                                                                                                                                                                                                       
-Akshada  
