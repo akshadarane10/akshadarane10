@@ -1,5 +1,5 @@
 # Hello, World! 🌍
-# I'm Akshada
+# I'm Akshada 👋
 A data enthusiast and IT engineering professional with a knack for turning complex data puzzles into clear business solutions. Here's a little about me, served with a sprinkle of humor:
 
 ## About Me
