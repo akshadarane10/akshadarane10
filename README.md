@@ -1,6 +1,6 @@
 # Hello, World! 🌍
-
-Welcome to my GitHub corner! I'm Akshada, a data enthusiast and IT engineering professional with a knack for turning complex data puzzles into clear business solutions. Here's a little about me, served with a sprinkle of humor:
+# I'm Akshada
+A data enthusiast and IT engineering professional with a knack for turning complex data puzzles into clear business solutions. Here's a little about me, served with a sprinkle of humor:
 
 ## About Me
 - 🎓 **Education**: Post Graduate in Big Data Analytics & IT Engineer
