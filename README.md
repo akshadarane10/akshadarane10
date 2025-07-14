@@ -4,7 +4,7 @@ A data enthusiast and AI professional with a knack for turning complex data puzz
 
 ## About Me
 - 🎓 **Education**: Post Graduate in Big Data Analytics & IT Engineer
-- 💼 **Professional Experience**: 2+ years at LTIMindtree, with internships at Kellogg's and HDFC Bank
+- 💼 **Professional Experience**: 3+ years at LTIMindtree, with internships at Kellogg's and HDFC Bank
 - 🛠️ **Core Competencies**: AWS, Azure, Tableau, Power BI, MS Excel, SAP CRM, SQL, Python, R, SAS
 - 📚 **Relevant Courses**: Machine Learning, Deep Learning, NLP, Retail Analytics, Data Visualization, Digital Product Management, Data Engineering & Management
 
