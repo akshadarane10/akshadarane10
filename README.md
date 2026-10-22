@@ -3,7 +3,7 @@
 A data enthusiast and AI professional with a knack for turning complex data puzzles into clear business solutions. Here's a little about me, served with a sprinkle of humor:
 
 ## About Me
-- 🎓 **Education**: Pursuing Meng in Computer Science & Application, Data Analytics & AI
+- 🎓 **Education**: Pursuing Meng in Computer Science & Application, Data Analytics & AI from Virginia Tech
 - 💼 **Professional Experience**: 3+ years at LTIMindtree, with internships at Kellogg's and HDFC Bank
 - 🛠️ **Core Competencies**: AWS, Azure, Tableau, Power BI, MS Excel, SAP CRM, SQL, Python, R, SAS
 - 📚 **Relevant Courses**: Machine Learning, Deep Learning, NLP, Retail Analytics, Data Visualization, Digital Product Management, Data Engineering & Management
